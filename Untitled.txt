@@ -1,0 +1,54 @@
+
+dummy user
+{
+  "email": "jane.doe@example.com",
+  "password": "SecurePass123",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "phoneNumber": "+14155552671"
+}
+
+
+
+dummy property
+{
+  "title": "Elegant 3-Bedroom Family Home with Garden",
+  "description": "A beautifully maintained home with spacious interiors, a lush backyard, and a newly renovated kitchen. Ideal for families looking for comfort and convenience.",
+  "price": 475000.00,
+  "address": "456 Maplewood Drive",
+  "city": "Austin",
+  "state": "TX",
+  "zipCode": "78701",
+  "country": "USA",
+  "latitude": 30.2672,
+  "longitude": -97.7431,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "squareFeet": 1800,
+  "lotSize": 7400,
+  "yearBuilt": 2005,
+  "propertyType": "INDIVIDUAL_HOUSE",
+  "listingType": "FOR_SALE",
+  "features": [
+    {
+      
+      "name": "Fireplace",
+      "value": "Gas",
+      "category": "Interior",
+
+    },
+    {
+      
+      "name": "Garage",
+      "value": "2 Car",
+      "category": "Exterior",
+
+    },
+    {
+      
+      "name": "Backyard",
+      "value": "Fenced",
+      "category": "Exterior",
+    }
+  ]
+}
